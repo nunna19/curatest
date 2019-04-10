@@ -1,13 +1,13 @@
 {
-  "main.css": "/curatest/static/css/main.34c5985d.chunk.css",
-  "main.js": "/curatest/static/js/main.a3fc526d.chunk.js",
-  "main.js.map": "/curatest/static/js/main.a3fc526d.chunk.js.map",
+  "main.css": "/curatest/static/css/main.b6fd8edf.chunk.css",
+  "main.js": "/curatest/static/js/main.f291ac43.chunk.js",
+  "main.js.map": "/curatest/static/js/main.f291ac43.chunk.js.map",
   "runtime~main.js": "/curatest/static/js/runtime~main.c080bff6.js",
   "runtime~main.js.map": "/curatest/static/js/runtime~main.c080bff6.js.map",
   "static/js/2.564858ac.chunk.js": "/curatest/static/js/2.564858ac.chunk.js",
   "static/js/2.564858ac.chunk.js.map": "/curatest/static/js/2.564858ac.chunk.js.map",
   "index.html": "/curatest/index.html",
-  "precache-manifest.dc414292b6e2aad4ce220a7ee3e4bcab.js": "/curatest/precache-manifest.dc414292b6e2aad4ce220a7ee3e4bcab.js",
+  "precache-manifest.0f95322578eda8ebc07d466e85a66108.js": "/curatest/precache-manifest.0f95322578eda8ebc07d466e85a66108.js",
   "service-worker.js": "/curatest/service-worker.js",
-  "static/css/main.34c5985d.chunk.css.map": "/curatest/static/css/main.34c5985d.chunk.css.map"
+  "static/css/main.b6fd8edf.chunk.css.map": "/curatest/static/css/main.b6fd8edf.chunk.css.map"
 }
