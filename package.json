@@ -27,5 +27,13 @@
   "homepage": "https://github-nunna19.github.io/curatest",
   "devDependencies": {
     "gh-pages": "^2.0.1"
-  }
+  },
+  
+    "root": "build/",
+    "clean_urls": false,
+    "routes": {
+      "/**": "index.html"
+    }
+  
+  
 }
