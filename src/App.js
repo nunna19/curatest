@@ -28,19 +28,19 @@ search = () => {
 
           <Switch>
             <Route 
-              exact path="/Diabetes" 
+               path="/Diabetes" 
                component={(props) => <Diabetes {...props} {...this.state}/>} />
             
             <Route 
-              exact path="/Cholesterol" 
+               path="/Cholesterol" 
                component={(props) => <Cholesterol {...props} {...this.state}/>} />
 
             <Route 
-              exact path="/Hypertension" 
+               path="/Hypertension" 
                component={(props) => <Hypertension {...props} {...this.state}/>} />
 
             <Route 
-              exact path="/Weight-Loss" 
+               path="/Weight-Loss" 
                component={(props) => <WeightLoss {...props} {...this.state}/>} />
 
           </Switch>
