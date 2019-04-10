@@ -4,6 +4,7 @@ import '../App.css';
 class Cholesterol extends Component {
 
   render() {
+    console.log('hi')
     return (
       <div className="box">
       <h6>Cholesterol</h6>
