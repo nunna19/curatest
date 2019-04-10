@@ -55,7 +55,7 @@ showComponent = () => {
        
     return (
     <div key ={i}>
-        <p><Link to={card.card}>{card.card}</Link></p>
+        <p><Link to={`/${card.card}`}>{card.card}</Link></p>
     </div>
     )  
  })
@@ -69,7 +69,7 @@ showComponent = () => {
     return (
       <div className="NavBar">
      
-     <img width="20px" src="../../search.png" alt=""/><input type="text" value = {this.state.search} placeholder="Search..." 
+     <img width="20px" src="./search.png" alt=""/><input type="text" value = {this.state.search} placeholder="Search..." 
           onChange={this.updateSearch}
           />
  
