@@ -55,7 +55,7 @@ showComponent = () => {
        
     return (
     <div key ={i}>
-        <p><Link to={`./${card.card}`}>{card.card}</Link></p>
+        <p><Link to={`${card.card}`}>{card.card}</Link></p>
     </div>
     )  
  })
